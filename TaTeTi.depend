@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1691249023 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\juegos\tateti\tateti.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"TaTeTi.h"
+
+1691248276 c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\juegos\tateti\tateti.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1691249976 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\juegos\tateti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"TaTeTi.h"
+
